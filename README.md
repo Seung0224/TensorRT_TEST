@@ -10,7 +10,7 @@
    <img width="636" height="141" alt="image" src="https://github.com/user-attachments/assets/66c07fb1-ddcb-4ae0-ac8b-33293d1206c3" />
 
 # onnx 실행 시 inferencetime
-<img width="503" height="203" alt="onnx" src="https://github.com/user-attachments/assets/c7a9fd7f-aebe-4ad5-993e-e87b5272844e" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1fa6f720-41e8-4202-879d-1b2e7b707920" />
 
 # engine 실행 시 inferencetime
-<img width="475" height="189" alt="engine" src="https://github.com/user-attachments/assets/4ae29c4b-4ec0-4d3d-8bd3-dd27f80af949" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f86641d2-7d25-4fbd-b8b9-901a3a7713ca" />
